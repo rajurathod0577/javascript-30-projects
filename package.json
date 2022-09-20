@@ -1,0 +1,22 @@
+{
+  "name": "javascript-30-projects",
+  "version": "1.0.0",
+  "description": "Javascript 30 projects by WesBos.",
+  "main": "/src/index.html",
+  "scripts": {
+    "start": "http-server ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajurathod0577/javascript-30-projects.git"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajurathod0577/javascript-30-projects/issues"
+  },
+  "homepage": "https://github.com/rajurathod0577/javascript-30-projects#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
