@@ -2,9 +2,9 @@
   "name": "javascript-30-projects",
   "version": "1.0.0",
   "description": "Javascript 30 projects by WesBos.",
-  "main": "/src/index.html",
+  "main": "README",
   "scripts": {
-    "start": "http-server /01-Drum-Kit"
+    "start": "parcel ./src/index.html --open"
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,9 @@
   },
   "author": "Raju Rathod",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rajurathod0577/javascript-30-projects/issues"
-  },
-  "homepage": "https://github.com/rajurathod0577/javascript-30-projects#readme"
+  "homepage": "https://github.com/rajurathod0577/javascript-30-projects#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.12.5"
+  }
 }
