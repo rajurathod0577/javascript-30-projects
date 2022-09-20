@@ -4,7 +4,7 @@
   "description": "Javascript 30 projects by WesBos.",
   "main": "/src/index.html",
   "scripts": {
-    "start": "http-server ./src"
+    "start": "http-server /01-Drum-Kit"
   },
   "repository": {
     "type": "git",
