@@ -11,3 +11,6 @@
 ## 01 Drum Kit
 Learned to bind event listners to keys using forEach.
 keyCode is depricated so change data-key to alphabates.
+
+## 02 Clock
+Clock using Javascript and CSS. Date function is used.
