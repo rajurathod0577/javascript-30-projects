@@ -12,3 +12,7 @@ keyCode is depricated so change data-key to alphabates.
 ## 02 Clock
 
 Clock using Javascript and CSS. Date function is used.
+
+## 03 Variables
+
+Modify styles using Javascript
