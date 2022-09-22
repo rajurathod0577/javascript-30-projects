@@ -1,0 +1,16 @@
+{
+  "name": "03-variables",
+  "version": "1.0.0",
+  "description": "CSS modifications using Javascript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
