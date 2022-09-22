@@ -1,0 +1,16 @@
+{
+  "name": "02-clock",
+  "version": "1.0.0",
+  "description": "Clock using Javascript & CSS.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
