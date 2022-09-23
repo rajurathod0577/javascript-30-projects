@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://github.com/rajurathod0577/javascript-30-projects#readme",
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/core": "^7.19.1",
     "parcel-bundler": "^1.12.5"
   }
 }
