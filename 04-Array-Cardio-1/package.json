@@ -1,0 +1,15 @@
+{
+  "name": "04-array-cardio-1",
+  "version": "1.0.0",
+  "description": "Practicing Array methods.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
