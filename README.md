@@ -16,3 +16,19 @@ Clock using Javascript and CSS. Date function is used.
 ## 03 Variables
 
 Modify styles using Javascript
+
+## 04 Array Cardio 01
+
+Tried array mathods/prototypes like `map`, `sort`, `reduce`.
+
+## 05 Flex Panel Gallery
+
+Added event listner to expend or reduce the size of images. Also toggled transitions.
+
+## 06 Type Ahead
+
+Learned `RegExp(Regular Expression)`, `replace`, `match` & `findMatch`
+
+## 07 Array Cardion 2
+
+Tried array mathods/prototypes like `some`, `every`, `find`, `findIndex` & `slice`.
