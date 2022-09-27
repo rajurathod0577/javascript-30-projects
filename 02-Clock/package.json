@@ -4,7 +4,7 @@
   "description": "Clock using Javascript & CSS.",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
+    "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   "author": "Raju Rathod",
