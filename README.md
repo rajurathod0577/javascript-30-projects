@@ -32,3 +32,11 @@ Learned `RegExp(Regular Expression)`, `replace`, `match` & `findMatch`
 ## 07 Array Cardion 2
 
 Tried array mathods/prototypes like `some`, `every`, `find`, `findIndex` & `slice`.
+
+## 08 Canvas
+
+Get to know about Canvas in html and used context to draw illustrations.
+
+## 09 Dev Tools
+
+Learned various developer tools like `log`, `warn`, `error`, `table`, `info` & `group` and many more.
