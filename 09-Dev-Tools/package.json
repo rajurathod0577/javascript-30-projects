@@ -1,0 +1,16 @@
+{
+  "name": "09-dev-tools",
+  "version": "1.0.0",
+  "description": "Must Know Chrome Dev Tools Tips & Tricks.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
