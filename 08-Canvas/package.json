@@ -1,0 +1,16 @@
+{
+  "name": "08-canvas",
+  "version": "1.0.0",
+  "description": "Fun with HTML Canvas using Javascript & CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
