@@ -1,0 +1,11 @@
+{
+  "name": "10-multiple-check-shift",
+  "version": "1.0.0",
+  "description": "Select multiple item by holding shift key.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC"
+}
