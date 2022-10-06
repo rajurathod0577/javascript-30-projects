@@ -4,8 +4,13 @@
   "description": "Select multiple item by holding shift key.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Raju Rathod",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "parcel-bundler": "^1.12.5"
+  }
 }
