@@ -47,4 +47,4 @@ Press and hold shift key to select multiple items at once. Used eventlistner e.s
 
 ## 11 Video Player
 
-WIP.
+Experienced video tag to `play`, `pause`, `skip` and manipulate sound and video speed. (Added fullscreen button)
