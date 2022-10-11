@@ -2,7 +2,9 @@
 
 > Course created by [Wes Bos](https://github.com/wesbos). Join the challenge (for free!) here - [JavaScript30](https://javascript30.com/account)
 
-<img src="https://javascript30.com/images/JS3-social-share.png" style="max-width:100%" alt="JavaScript30" />
+<!-- <img src="https://javascript30.com/images/JS3-social-share.png" style="max-width:100%" alt="JavaScript30" /> -->
+
+![Javascript 30](https://javascript30.com/images/JS3-social-share.png)
 
 ## 01 Drum Kit
 
@@ -40,3 +42,11 @@ Get to know about Canvas in html and used context to draw illustrations.
 ## 09 Dev Tools
 
 Learned various developer tools like `log`, `warn`, `error`, `table`, `info` & `group` and many more.
+
+## 10 Multiple Check Shift
+
+Press and hold shift key to select multiple items at once. Used eventlistner e.shiftKey
+
+## 11 Video Player
+
+WIP.
