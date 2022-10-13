@@ -50,3 +50,5 @@ Press and hold shift key to select multiple items at once. Used eventlistner e.s
 Experienced video tag to `play`, `pause`, `skip` and manipulate sound and video speed. (Added fullscreen button)
 
 ## 12 - Key Sequence Detection
+
+Added event listner to window to store keystrokes in array. Then compared array with secret key. If matched then random unicorn will pop in the screen 🦄.
