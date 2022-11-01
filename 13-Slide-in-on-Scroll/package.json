@@ -1,0 +1,16 @@
+{
+  "name": "13-slide-in-on-scroll",
+  "version": "1.0.0",
+  "description": "Sliding images on scroll",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Raju Rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.19.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
