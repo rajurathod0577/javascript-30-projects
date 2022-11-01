@@ -52,3 +52,7 @@ Experienced video tag to `play`, `pause`, `skip` and manipulate sound and video 
 ## 12 - Key Sequence Detection
 
 Added event listner to window to store keystrokes in array. Then compared array with secret key. If matched then random unicorn will pop in the screen 🦄.
+
+## 13 - Slide in on Scroll
+
+Sliding Images in scrolling event
