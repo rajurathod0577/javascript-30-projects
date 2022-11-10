@@ -1,0 +1,19 @@
+:root {
+  --blue: #0065cd;
+  --yellow: #ffc600;
+}
+
+body {
+  font-family: monospace;
+  background-color: var(--blue);
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  background-color: var(--yellow);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
