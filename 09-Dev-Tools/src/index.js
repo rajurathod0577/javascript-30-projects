@@ -4,8 +4,8 @@ const dogs = [
 ];
 const p = document.querySelector("p");
 
-function makeGreen() {
-  p.style.color = "#BADA55";
+function makeChange() {
+  p.style.color = "#252525";
   p.style.fontSize = "50px";
 }
 
