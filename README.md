@@ -56,3 +56,7 @@ Added event listner to window to store keystrokes in array. Then compared array 
 ## 13 - Slide in on Scroll
 
 Sliding Images in scrolling event
+
+## 14 - JavaScript References VS Copying
+
+Understood the diffrence between copying reference and copying original variables using many types of methods like slice, concat, spread operator and Arrays.from for Array. And assign or spread operator for Objects. Also got to know about Shallow Copy & Deep Copy.
