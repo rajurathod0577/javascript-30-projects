@@ -2,3 +2,8 @@ html,
 body {
   margin: 0;
 }
+
+canvas {
+  width: 99.9vw;
+  height: 99.4vh;
+}
